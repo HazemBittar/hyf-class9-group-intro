@@ -1,6 +1,6 @@
 # Group introduction
 
-We are the **Future Hack Crew**!
+We are the **HYF Dream Team**!
 
 _Our mission is to change our own future by becoming top-notch coders._
 
@@ -8,12 +8,22 @@ _Our mission is to change our own future by becoming top-notch coders._
 
 ### Coaches
 
-- [Evan](evan.md)
-- [Tiago](tiago.md)
+1. [Evan](evan.md)
+1. [Tiago](tiago.md)
 
 ### Students
 
-- first one
-- second one
+- [Hazem](hazem.md)
+- [Sharaf](sharaf.md)
 - …
 
+First column | Second column
+-------------|--------------
+content 1 | content 2
+content 1 | content 2
+content 1 | content 2
+content 1 | content 2
+content 1 | content 2
+
+- [ ] first item
+- [x] second item
