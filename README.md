@@ -1,29 +1,25 @@
-# Group introduction
+# HYF Dream Team
 
-We are the **HYF Dream Team**!
+This is the intro page of **group number 2** in the HYF classes 9 & 10 promotion.
 
-_Our mission is to change our own future by becoming top-notch coders._
+## Our mission
+
+Change our own **future** by becoming top-notch **coders**.
 
 ## Our members
 
-### Coaches
-
-1. [Evan](evan.md)
-1. [Tiago](tiago.md)
-
-### Students
-
 - [Hazem](hazem.md)
+- [Ismail](ismail.md)
+- [Kateryna](kateryna.md)
+- [Olga](olga.md)
+- [Razvan](razvan.md)
 - [Sharaf](sharaf.md)
-- …
+- [Tiago](tiago.md)
 
-First column | Second column
--------------|--------------
-content 1 | content 2
-content 1 | content 2
-content 1 | content 2
-content 1 | content 2
-content 1 | content 2
+## Pushing to GitHub
 
-- [ ] first item
-- [x] second item
+Read the [INSTALL](INSTALL.md) guide to put this newly created project onto GitHub.
+
+## License
+
+This repository is using the [MIT License](LICENSE).

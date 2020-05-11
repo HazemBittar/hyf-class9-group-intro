@@ -1,6 +1,6 @@
 # Tiago Mendes-Costa
 
-_Future Hack Crew coach_
+Future Hack Crew coach
 
 Tiago is a web developer specialized in [Ruby on Rails](https://rubyonrails.org).
 
@@ -12,4 +12,3 @@ My favorite quote:
 > Second line
 
 ![tiago's photo](https://ca.slack-edge.com/T91PPTG9H-UA8ULC31P-f509f42eb406-512)
-
